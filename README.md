@@ -1,6 +1,6 @@
 # ADM-HW5
 ![graph](https://anthonybonato.files.wordpress.com/2017/03/jrnlcovercropped.jpg)
-#### Authors: Michelangelo Saveriano,Fravia Penta,Timea ,Nicola Calabrese
+#### Authors: Michelangelo Saveriano, Fravia Penta, Adrienn Timea Aszalos, Nicola Calabrese
 #### Course: Masters in Data Science
 ## Repository Files
 #### 1. main.ipynb File
