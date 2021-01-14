@@ -23,13 +23,13 @@ From the linked page we download:
 * [`wiki-topcats-categories.txt.gz`](https://snap.stanford.edu/data/wiki-topcats.html)
   > containing the list of pages per category
   
-* [wiki-topcats-page-names.txt.gz](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
+* [`wiki-topcats-page-names.txt.gz`](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
   > containing the page names
 <br/>
 Note that in the reduced version of the network we remove the categories whose number of articles in less than 5000 and more than 30000.
 
 ## Repository files
-* [__`main.ipynb`__](../main/main.ipynb):
+* [`main.ipynb`](../main/main.ipynb):
   > This is the core of this repository. In fact it contains the results of our implementations and researches.
 
 ## Notes
