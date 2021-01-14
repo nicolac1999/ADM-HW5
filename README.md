@@ -23,7 +23,7 @@ From the linked page we download:
   
 * [wiki-topcats-page-names.txt.gz](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
   > containing the page names
-  
+<br/>
 Note that in the reduced version of the network we removed the categories whose number of articles in less than 5000 and more than 30000.
 
 ## Repository files
