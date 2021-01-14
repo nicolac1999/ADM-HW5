@@ -20,8 +20,11 @@ There are many options to collect and build the Wikipedia's underlying network, 
 We download the reduced version of the graph Wikicat hyperlink graph. Every row indicates an edge. In particular, the two elements are the source and the target, respectively.
 
 From the linked page we download:
-  > *wiki-topcats-categories.txt.gz*: list of pages per category 
-  > *wiki-topcats-page-names.txt.gz*: page names
+* [wiki-topcats-categories.txt.gz](https://snap.stanford.edu/data/wiki-topcats.html)
+  > containing the list of pages per category
+  
+* [wiki-topcats-page-names.txt.gz](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
+  > containing the page names
   
 Note that in the reduced version of the network we removed the categories whose number of articles in less than 5000 and more than 30000.
 
