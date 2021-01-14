@@ -17,6 +17,8 @@ Note that in the reduced version of the network we removed the categories whose 
 
 ## Repository Files
 * [__`main.ipynb`__](../main/main.ipynb):
-> This is the core of this repository. In fact it contains the results of our implementations and researches.
-We decide to implement our class  **Graph** from scratch with all the methods we need for the several questions (BFS,Algorithm for the  min cut,...),optimizing 
-all functions to be able to run them in a suitable computational time.
+  > This is the core of this repository. In fact it contains the results of our implementations and researches.
+
+## Notes
+We chose to implement the graph within a class **Graph**, from scratch with all the related methods, like BFS, Min-Cut and many others, in order to optimize computational time. 
+We also decided to challenge ourselves and add an **Extra** part for the first three questions using the library networkx. 
