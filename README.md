@@ -14,8 +14,8 @@ In this assignment we analyze the Wikipedia's articles network by applying graph
 
 There are many options to collect and build the Wikipedia's underlying network, we rely on the dataset provided [here](https://snap.stanford.edu/data/wiki-topcats.html). For the purpose of our exploration, we do not consider the entire dataset. Instead, we focus on the articles belonging to a subset of categories.
 
-We download the reduced version of the graph Wikicat hyperlink graph. Every row indicates an edge. In particular, the two elements are the source and the target, respectively.
-<br>
+We download the reduced version of the graph Wikicat hyperlink graph. Every row indicates an edge. In particular, the two elements are the source and the target, respectively.\
+
 From the linked page we download:
 * [wiki-topcats-categories.txt.gz](https://snap.stanford.edu/data/wiki-topcats.html)
   > containing the list of pages per category
