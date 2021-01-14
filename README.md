@@ -1,7 +1,7 @@
 # ADM-HW5
 ![graph](https://anthonybonato.files.wordpress.com/2017/03/jrnlcovercropped.jpg)
 #### Authors: Michelangelo Saveriano, Flavia Penta de Peppo, Adrienn Timea Aszalos, Nicola Calabrese
-#### Course: Masters in Data Science
+#### for "Algorithmic Methods of Data Mining", "La Sapienza" University of Rome, MSc in Data Science, 2020-2021*
 
 In this assignment we analyze the Wikipedia's articles network by applying graph algorithms.
 
@@ -16,7 +16,7 @@ wiki-topcats-page-names.txt.gz: page names
 Note that in the reduced version of the network we removed the categories whose number of articles in less than 5000 and more than 30000.
 
 ## Repository Files
-#### main.ipynb
-blabla
+* [__`main.ipynb`__](../main/main.ipynb):
+> This is the core of this repository. In fact it contains the results of our implementations and researches.
 We decide to implement our class  **Graph** from scratch with all the methods we need for the several questions (BFS,Algorithm for the  min cut,...),optimizing 
 all functions to be able to run them in a suitable computational time.
