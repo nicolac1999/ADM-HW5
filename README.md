@@ -20,10 +20,10 @@ We download the reduced version of the graph Wikicat hyperlink graph. Every row 
 <br/>
 <br/>
 From the linked page we download:
-* [wiki-topcats-categories.txt.gz](https://snap.stanford.edu/data/wiki-topcats.html)
+* [__wiki-topcats-categories.txt.gz__](https://snap.stanford.edu/data/wiki-topcats.html)
   > containing the list of pages per category
   
-* [wiki-topcats-page-names.txt.gz](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
+* [__wiki-topcats-page-names.txt.gz__](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
   > containing the page names
 <br/>
 Note that in the reduced version of the network we remove the categories whose number of articles in less than 5000 and more than 30000.
