@@ -24,12 +24,12 @@ From the linked page we download:
 * [wiki-topcats-page-names.txt.gz](https://snap.stanford.edu/data/wiki-topcats-page-names.txt.gz)
   > containing the page names
 <br/>
-Note that in the reduced version of the network we removed the categories whose number of articles in less than 5000 and more than 30000.
+Note that in the reduced version of the network we remove the categories whose number of articles in less than 5000 and more than 30000.
 
 ## Repository files
 * [__`main.ipynb`__](../main/main.ipynb):
   > This is the core of this repository. In fact it contains the results of our implementations and researches.
 
 ## Notes
-We chose to implement the graph within a class **Graph**, from scratch with all the related methods, like BFS, Min-Cut and many others, in order to optimize computational time. 
+We choose to implement the graph within a class **Graph**, from scratch with all the related methods, like BFS, Min-Cut and many others, in order to optimize computational time. 
 We also decided to challenge ourselves and add an **Extra** part for the first three questions using the library networkx. 
