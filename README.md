@@ -4,4 +4,5 @@
 #### Course: Masters in Data Science
 ## Repository Files
 #### 1. main.ipynb File
-We decide to implement our class  **Graph** from scratch with all the methods we need for the several questions (BFS,Algorithm for the  min cut,...).
+We decide to implement our class  **Graph** from scratch with all the methods we need for the several questions (BFS,Algorithm for the  min cut,...),optimizing 
+all functions to be able to run them in a suitable computational time.
