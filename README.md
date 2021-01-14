@@ -7,7 +7,8 @@
 * Adrienn Timea Aszalos
 * Nicola Calabrese
 
-*for "Algorithmic Methods of Data Mining", "La Sapienza" University of Rome, MSc in Data Science, 2020-2021*.\
+*for "Algorithmic Methods of Data Mining", "La Sapienza" University of Rome, MSc in Data Science, 2020-2021*.
+<br/>
 In this assignment we analyze the Wikipedia's articles network by applying graph algorithms.
 
 ## Data and setting
