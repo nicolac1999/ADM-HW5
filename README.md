@@ -33,6 +33,6 @@ Note that in the reduced version of the network we remove the categories whose n
   > This is the core of this repository. In fact it contains the results of our implementations and researches.
 
 ## Notes
-We choose to implement the graph within a class **Graph**, from scratch with all the related methods and algorithms like BFS, Min-Cut and many others, in order to optimize computational time. 
+We choose to implement the graph within a class **HWGraph**, from scratch with all the related methods and algorithms like BFS, Min-Cut and many others, in order to optimize computational time. 
 We also decided to challenge ourselves and add an **Extra** part for the first three questions using the library [NetworkX](https://networkx.org/documentation/stable/tutorial.html). 
 
