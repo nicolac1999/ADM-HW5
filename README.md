@@ -23,7 +23,7 @@ wiki-topcats-categories.txt.gz: list of pages per category
 wiki-topcats-page-names.txt.gz: page names
 Note that in the reduced version of the network we removed the categories whose number of articles in less than 5000 and more than 30000.
 
-## Repository Files
+## Repository files
 * [__`main.ipynb`__](../main/main.ipynb):
   > This is the core of this repository. In fact it contains the results of our implementations and researches.
 
