@@ -29,7 +29,7 @@ From the linked page we download:
 Note that in the reduced version of the network we remove the categories whose number of articles in less than 5000 and more than 30000.
 
 ## Repository files
-* [`main.ipynb`](../main/main.ipynb):
+* [`main.ipynb`](../main/main.ipynb)
   > This is the core of this repository. In fact it contains the results of our implementations and researches.
 
 ## Notes
