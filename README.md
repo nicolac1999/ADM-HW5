@@ -32,4 +32,5 @@ Note that in the reduced version of the network we remove the categories whose n
 
 ## Notes
 We choose to implement the graph within a class **Graph**, from scratch with all the related methods, like BFS, Min-Cut and many others, in order to optimize computational time. 
-We also decided to challenge ourselves and add an **Extra** part for the first three questions using the library networkx. 
+We also decided to challenge ourselves and add an **Extra** part for the first three questions using the library [NetworkX](https://networkx.org/documentation/stable/tutorial.html). 
+
