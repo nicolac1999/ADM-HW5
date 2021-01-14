@@ -16,6 +16,7 @@ wiki-topcats-page-names.txt.gz: page names
 Note that in the reduced version of the network we removed the categories whose number of articles in less than 5000 and more than 30000.
 
 ## Repository Files
-#### 1. main.ipynb File
+#### main.ipynb
+blabla
 We decide to implement our class  **Graph** from scratch with all the methods we need for the several questions (BFS,Algorithm for the  min cut,...),optimizing 
 all functions to be able to run them in a suitable computational time.
